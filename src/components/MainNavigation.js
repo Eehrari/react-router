@@ -16,7 +16,7 @@ function MainNavigation() {
               // style={({ isActive }) => ({
               //   textAlign: isActive ? 'center' : 'left',
               // })}
-              end // to = '/home/details
+              end
             >
               Home
             </NavLink>
